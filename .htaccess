@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^index\.html$ index.php [END]
+RewriteRule ^navigation\.php$ - [F,END]
